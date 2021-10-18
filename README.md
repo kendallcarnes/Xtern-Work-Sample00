@@ -14,3 +14,5 @@
 [Work Sample Xtern Data Set - Sports.csv](https://github.com/kendallcarnes/Xtern-Work-Sample00/files/7367873/Work.Sample.Xtern.Data.Set.-.Sports.csv)
 
 [Xtern Work Sample Data Science.pdf](https://github.com/kendallcarnes/Xtern-Work-Sample00/files/7368765/Xtern.Work.Sample.Data.Science.pdf)
+
+[Xtern Work Sample Conclusions.txt](https://github.com/kendallcarnes/Xtern-Work-Sample00/files/7368783/Xtern.Work.Sample.Conclusions.txt)
